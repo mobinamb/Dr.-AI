@@ -50,9 +50,7 @@ This project analyzes crisis-related discussions using **Natural Language Proces
 ![sentiment_distribution](figures/sentiment_distribution.png)
 
 ### Task 3
-[View Heatmap of Crisis Discussions](https://github.com/mobinamb/Dr.-AI/blob/main/htmls/crisis_heatmap.html)
+[View Heatmap of Crisis Discussions](https://mobinamb.github.io/Dr.-AI/htmls/crisis_heatmap.html)
 
-[View Heatmap of Top 5 Crisis Discussions](https://github.com/mobinamb/Dr.-AI/blob/main/htmls/crisis_heatmap_with_top_5_locations.html)
-
-
+[View Heatmap of Top 5 Crisis Discussions](https://mobinamb.github.io/Dr.-AI/htmls/crisis_heatmap_with_top_5_locations.html)
 
