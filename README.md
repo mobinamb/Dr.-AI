@@ -40,9 +40,9 @@ This project analyzes crisis-related discussions using **Natural Language Proces
    pip install -r requirements.txt
 
 2. **Run the analysis pipeline:** 
-python task1_data_cleaning.py
-python task2_crisis_classification.py
-python task3_geolocation.py
+- python task1_data_cleaning.py
+- python task2_crisis_classification.py
+- python task3_geolocation.py
 
 ## Results
 ### Task 2
