@@ -105,6 +105,6 @@ plt.close()  # Close the plot to avoid display during processing
 plt.figure(figsize=(6, 4))
 sns.countplot(x=df["Risk Level"], palette="viridis", order=["Low Concern", "Moderate Concern", "High-Risk"])
 plt.title("Crisis Risk Level Distribution")
-plt.savefig("figures/Crisis Risk Level Distribution.png")  # Save as PNG file
+plt.savefig("figures/Crisis_Risk_Level_Distribution.png")  # Save as PNG file
 plt.show()
 plt.close()  # Close the plot to avoid display during processing
